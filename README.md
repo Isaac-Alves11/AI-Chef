@@ -1,0 +1,2 @@
+# AI-Chef
+Bem-vindo(a) ao nosso site de receitas! Encontre deliciosas opções para preparar com os ingredientes que você já tem em casa. Basta digitar os ingredientes no campo abaixo e descubra as melhores receitas que você pode fazer agora mesmo. É fácil, prático e uma ótima maneira de aproveitar ao máximo o que você tem na despensa. Então, mãos à obra e descubra novas combinações culinárias com o Meu Site de Receitas!
