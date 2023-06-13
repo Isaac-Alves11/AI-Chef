@@ -9,8 +9,6 @@
 * {
     margin: 0;
     padding: 0;
-}
-
-.imagem_fundo {
-    width: 100%;
+    background-image: url(Assets/AI\ Chef.png);
+    background-size: cover;
 }
