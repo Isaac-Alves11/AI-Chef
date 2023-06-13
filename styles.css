@@ -1,14 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Pacifico&display=swap');
 
 :root {
     --cor-primaria: #F8F8F8;
     --cor-secundaria: #2D46B9;
     --cor-terciaria: #FFE1CD;
+
+
+    --fonte-primaria: 'Great Vibes', cursive;
 }
 
 * {
     margin: 0;
     padding: 0;
-    background-image: url(Assets/AI\ Chef.png);
-    background-size: cover;
+}
+
+body {
+    background-color: var(--cor-primaria);
+}
+
+.apresentacao-do-paragrafo {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.nome-do-site {
+    font-family: var(--fonte-primaria);
+    color: var(--cor-secundaria);
 }
