@@ -5,3 +5,8 @@
     --cor-secundaria: #2D46B9;
     --cor-terciaria: #FFE1CD;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}
